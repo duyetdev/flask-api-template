@@ -11,3 +11,11 @@
     |- app.py            # WSGI file containing the "app" callable
     |- server.py         # Optional: To run the app servers (CherryPy)
 ```
+
+
+## Quick start 
+
+```
+python server.py
+```
+Access [http://localhost:8080](http://localhost:8080)
